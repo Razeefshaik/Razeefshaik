@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Shaik Mahammad Razeef 👋</h1>
+<h1 align="center">Hey there, I'm Razeef  Shaik </h1>
 <h3 align="center">Backend Developer | Problem Solver | Mobile Development Enthusiast</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ My Tech Stack
+###  My Tech Stack
 My technical skills are centered around the Java ecosystem for the backend and Flutter for mobile, allowing me to build and deploy complete, end-to-end solutions.
 
 <p align="center">
@@ -24,12 +24,12 @@ My technical skills are centered around the Java ecosystem for the backend and F
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 Here are some of the projects I'm most proud of.
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **LIMA: Army Leave Management System** | A full-stack, role-based mobile app to digitize leave requests, health reporting, and personnel analytics for a military unit. Features a complex hierarchical approval system and real-time emergency alerts. | `Flutter` `Dart` `Spring Boot` `Java` `PostgreSQL` `JWT` `Firebase` |
+| **FLIMA: Team Management System** | A full-stack, role-based mobile app to digitize leave requests, health reporting, and personnel analytics for a military unit. Features a complex hierarchical approval system and real-time emergency alerts. | `Flutter` `Dart` `Spring Boot` `Java` `PostgreSQL` `JWT` `Firebase` |
 | **Code Guardian: AI Refactoring Tool** | An AI-powered tool that automates debugging by fetching Java files from GitHub, analyzing them with user prompts, and automatically pushing corrected code to a new branch. | `Spring Boot` `Java` `GitHub API` `Kafka` `Docker` |
 | **Campus Safety & Resource App** | A collaborative Android app for real-time campus safety and resource management. I led the UI/UX design and implementation using Kotlin and XML. | `Kotlin` `XML` `Firebase` `RoomDB` `Git` |
 
