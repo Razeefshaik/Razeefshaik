@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
+<title id="title">Razeef Shaik — Backend Engineering, Distributed Systems and Applied AI</title>
+<desc id="desc">A personal engineering profile with an abstract network of connected nodes. NIT Silchar, Electrical Engineering.</desc>
+<defs>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#152131" stroke-width="1"/></pattern>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6EE7D2"/><stop offset="1" stop-color="#8BAFFF"/></linearGradient>
+ <clipPath id="round"><rect x="1" y="1" width="998" height="318" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+ <rect width="1000" height="320" fill="#0D1117"/>
+ <rect x="596" width="404" height="320" fill="url(#grid)"/>
+ <path d="M998 0V320" stroke="url(#accent)" stroke-width="7"/>
+ <text x="42" y="51" fill="#6EE7D2" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2.2">BACKEND / SYSTEMS / APPLIED AI</text>
+ <text x="40" y="139" fill="#F0F6FC" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="68" letter-spacing="-2.5">Razeef Shaik</text>
+ <text x="43" y="180" fill="#9AAFC5" font-family="Arial, Helvetica, sans-serif" font-size="22">From algorithms to systems that work.</text>
+ <path d="M43 213H572" stroke="#243346"/>
+ <text x="43" y="245" fill="#F0F6FC" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">JAVA  /  GO  /  C++</text>
+ <text x="43" y="278" fill="#9AAFC5" font-family="Arial, Helvetica, sans-serif" font-size="14">NIT Silchar · Electrical Engineering</text>
+ <g transform="translate(618 26)">
+  <rect x="8" y="8" width="316" height="252" rx="15" fill="#151E2C" stroke="#243346"/>
+  <circle cx="28" cy="28" r="3" fill="#6EE7D2"/>
+  <circle cx="40" cy="28" r="3" fill="#8BAFFF" opacity=".65"/>
+  <circle cx="52" cy="28" r="3" fill="#9AAFC5" opacity=".4"/>
+  <text x="303" y="32" text-anchor="end" fill="#9AAFC5" font-family="Consolas, monospace" font-size="10" letter-spacing="1">UNDER THE HOOD</text>
+  <g fill="none" stroke="#243346" stroke-width="1.5">
+   <path d="M63 89L153 62L255 98L268 185L179 214L77 181Z"/>
+   <path d="M63 89L160 138L153 62M255 98L160 138L268 185M179 214L160 138L77 181M63 89L77 181M153 62L268 185"/>
+  </g>
+  <g fill="none" stroke="url(#accent)" stroke-width="2">
+   <path d="M63 89L160 138L255 98"/>
+   <path d="M77 181L160 138L179 214"/>
+  </g>
+  <circle cx="160" cy="138" r="30" fill="#0D1117" stroke="#6EE7D2" stroke-opacity=".22" stroke-width="1"/>
+  <circle cx="160" cy="138" r="19" fill="#151E2C" stroke="#6EE7D2" stroke-width="2"/>
+  <path d="M154 132L148 138L154 144M166 132L172 138L166 144" fill="none" stroke="#6EE7D2" stroke-width="1.8"/>
+  <g fill="#0D1117" stroke="#8BAFFF" stroke-width="2">
+   <circle cx="63" cy="89" r="7"/><circle cx="153" cy="62" r="5"/>
+   <circle cx="255" cy="98" r="8"/><circle cx="268" cy="185" r="5"/>
+   <circle cx="179" cy="214" r="7"/><circle cx="77" cy="181" r="5"/>
+  </g>
+ </g>
+</g>
+<rect x="1" y="1" width="998" height="318" rx="20" fill="none" stroke="#243346"/>
+</svg>
