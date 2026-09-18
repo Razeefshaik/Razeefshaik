@@ -1,140 +1,124 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Razeef Shaik — Backend Engineering, Distributed Systems and Applied AI" src="./assets/header-dark.svg" width="100%">
-</picture>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/shaik-mahammad-razeef-374a4b2a4/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="mailto:shaikrazeef2@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/RAZEEF_SHAIK/"><b>LeetCode</b></a> &nbsp;·&nbsp;
-  <a href="https://codeforces.com/profile/Razeef"><b>Codeforces</b></a>
+  <img src="./assets/v2/hero.svg" alt="Razeef Shaik — animated backend, distributed systems and applied AI hero" width="100%">
 </p>
 
-I'm **Razeef**, an Electrical Engineering undergraduate at **NIT Silchar, class of 2027**, building backends, distributed search systems, and tools that put AI to work.
+<p align="center">
+  <img src="./assets/v2/terminal.svg" alt="Building reliable backends in Java and Go. Exploring systems beneath the API. Turning algorithms into working software." width="100%">
+</p>
 
-My work spans **Java / Spring Boot**, **Go**, and **C++** — from role-based applications used by real teams to a vector search engine built from scratch. I enjoy the details that make systems dependable: concurrency, recovery, tenant isolation, and clear API contracts.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaik-mahammad-razeef-374a4b2a4/"><img src="./assets/v2/connect-linkedin.svg" alt="Connect on LinkedIn" width="140"></a>
+  <a href="mailto:shaikrazeef2@gmail.com"><img src="./assets/v2/connect-email.svg" alt="Email Razeef" width="140"></a>
+  <a href="https://leetcode.com/u/RAZEEF_SHAIK/"><img src="./assets/v2/connect-leetcode.svg" alt="LeetCode profile" width="140"></a>
+  <a href="https://codeforces.com/profile/Razeef"><img src="./assets/v2/connect-codeforces.svg" alt="Codeforces profile" width="140"></a>
+</p>
 
-### Selected builds
+<p align="center">
+  <b>NIT Silchar · Electrical Engineering · Class of 2027</b><br>
+  Backend developer, systems builder, and algorithm enthusiast.
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Razeefshaik/VectorSearchEngine">01 · VectorSearchEngine</a></h3>
-<p><b>From the index to the distributed system.</b></p>
-<p>A C++ HNSW core with SIMD distance kernels, Go bindings, and a four-shard cluster. Includes scatter-gather search, write-ahead logging, snapshot recovery, and tenant-scoped retrieval.</p>
-<p><code>C++</code> <code>Go</code> <code>gRPC</code> <code>HNSW</code></p>
-<a href="https://github.com/Razeefshaik/VectorSearchEngine/blob/master/ARCHITECTURE.md">Explore the architecture →</a>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Razeefshaik/GoEgg">02 · GoEgg</a></h3>
-<p><b>Equality saturation, written in Go.</b></p>
-<p>An e-graph library for rewriting expressions and extracting lower-cost equivalents. Implements union-find, hashconsing, and parallel matching, rebuilding, and extraction with goroutines.</p>
-<p><code>Go</code> <code>Algorithms</code> <code>Concurrency</code></p>
-<a href="https://github.com/Razeefshaik/GoEgg#quick-start">Try the library →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Razeefshaik/FixHub-Code-debugger-AI">03 · Code Guardian</a></h3>
-<p><b>Repository-aware AI debugging.</b></p>
-<p>Spring Boot ingestion and worker services connected through Kafka. Retrieves related source code through my vector search stack, uses LLMs to propose fixes, and commits them to reviewable Git branches.</p>
-<p><code>Java</code> <code>Spring Boot</code> <code>Kafka</code> <code>RAG</code></p>
-<a href="https://github.com/Razeefshaik/FixHub-Code-debugger-AI#-architecture">Follow the workflow →</a>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Razeefshaik/vectorsearch-gateway">04 · Vector Search Gateway</a></h3>
-<p><b>Text in. Semantic search out.</b></p>
-<p>A Go gRPC gateway with Kafka ingestion, idempotent consumers, and per-client token-bucket rate limiting. Separate Python embedding services handle search and ingestion workloads.</p>
-<p><code>Go</code> <code>Python</code> <code>gRPC</code> <code>Kafka</code></p>
-<a href="https://github.com/Razeefshaik/vectorsearch-gateway/blob/master/docs/ARCHITECTURE.md">Read the system design →</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Razeefshaik/LimaBackend">05 · LIMA</a></h3>
-<p><b>Software for real operational workflows.</b></p>
-<p>A leave and health management application with a Spring Boot backend and Flutter client. Models hierarchical approvals, JWT authentication, role-based access, reporting, and notifications.</p>
-<p><code>Spring Boot</code> <code>PostgreSQL</code> <code>Flutter</code></p>
-<a href="https://github.com/Razeefshaik/LimaBackend">Backend →</a> &nbsp;·&nbsp; <a href="https://github.com/Razeefshaik/limaFrontend">Mobile app →</a>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Razeefshaik/GoEV">06 · GoEV</a></h3>
-<p><b>Electrical engineering meets backend systems.</b></p>
-<p>An EV-to-charging-station routing project combining MQTT telemetry, Redis live state, graph-based routing, greedy and batch assignment policies, and a real-time dashboard.</p>
-<p><code>Java</code> <code>Spring Boot</code> <code>Redis</code> <code>MQTT</code></p>
-<a href="https://github.com/Razeefshaik/GoEV/blob/master/docs/ev-evcs-architecture-design.md">See the design →</a>
-</td>
-</tr>
-</table>
+I build across **Java / Spring Boot, Go, and C++** — from applications used by real teams to the search infrastructure behind AI tools. I'm especially interested in **concurrency, recovery, tenant isolation, and the engineering behind reliable APIs**.
 
-### What I work with
+<h2 align="center">Featured engineering</h2>
 
-| Area | Tools & concepts |
-| :--- | :--- |
-| **Languages** | Java · Go · C++ · Python · SQL |
-| **Backend & APIs** | Spring Boot · Spring Security · REST · gRPC · OAuth2 · JWT · RBAC |
-| **Data & infrastructure** | PostgreSQL · MySQL · Redis · Apache Kafka · Docker · Git |
-| **Systems** | Sharding · WAL & recovery · Concurrency · Idempotency · Rate limiting |
-| **Applied AI** | RAG · Vector search · HNSW · Embeddings · Spring AI · LangChain |
-| **Also built with** | Flutter / Dart · Kotlin · Firebase · Taichi |
+<p align="center"><sub>From algorithms and storage engines to applications people use. Select a card to explore the code.</sub></p>
 
-### Experience & research
+<p align="center">
+  <a href="https://github.com/Razeefshaik/VectorSearchEngine"><img src="./assets/v2/project-vector.svg" alt="Vector Search Engine: C++ HNSW, four Go-coordinated shards, WAL recovery and tenant isolation." width="410"></a>
+  <a href="https://github.com/Razeefshaik/GoEgg"><img src="./assets/v2/project-goegg.svg" alt="GoEgg: an e-graph library with parallel matching, rebuilding and extraction in Go." width="410"></a>
+</p>
 
-**Research Intern · S.N. Bose National Centre for Basic Sciences**  
-May – July 2026
+<p align="center">
+  <a href="https://github.com/Razeefshaik/FixHub-Code-debugger-AI"><img src="./assets/v2/project-guardian.svg" alt="Code Guardian: Spring Boot and Kafka services for repository-aware AI debugging with RAG and reviewable fix branches." width="410"></a>
+  <a href="https://github.com/Razeefshaik/vectorsearch-gateway"><img src="./assets/v2/project-gateway.svg" alt="Vector Search Gateway: Go gRPC APIs, Kafka ingestion, Python embeddings and per-client rate limiting." width="410"></a>
+</p>
 
-Designed and implemented a GPU algorithm for discrete Voronoi diagrams using Python and the Taichi DSL. Worked on density-based cut-off heuristics and benchmarked performance against the Jump Flood Algorithm.
-
-**Backend Software Developer Intern · LIMA, Defense Sector Organization**  
-July – December 2025
-
-Built a Java / Spring Boot backend serving **700+ personnel**, with PostgreSQL data models, JWT authentication, and multi-level access control. Received a **Certificate of Appreciation** from senior leadership.
-
-**Moderator · Google Developer Student Clubs, NIT Silchar**  
-September 2024 – May 2026
-
-Delivered technical workshops for **30+ students** and helped explain software and systems concepts through community learning.
-
-### Competitive programming
-
-<table>
-<tr>
-<td align="center" width="33%">
-<h3>1633</h3>
-<a href="https://codeforces.com/profile/Razeef"><b>Codeforces · Expert</b></a><br>
-<sub>Peak rating</sub>
-</td>
-<td align="center" width="33%">
-<h3>2032</h3>
-<a href="https://leetcode.com/u/RAZEEF_SHAIK/"><b>LeetCode · Knight</b></a><br>
-<sub>Peak rating</sub>
-</td>
-<td align="center" width="33%">
-<h3>1500+</h3>
-<b>Problems solved</b><br>
-<sub>Across coding platforms</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Razeefshaik/LimaBackend"><img src="./assets/v2/project-lima.svg" alt="LIMA: leave and health management with Spring Boot, PostgreSQL, Flutter and hierarchical role-based access." width="410"></a>
+  <a href="https://github.com/Razeefshaik/GoEV"><img src="./assets/v2/project-goev.svg" alt="GoEV: EV charging-station routing with MQTT telemetry, Redis state, graph algorithms and a real-time dashboard." width="410"></a>
+</p>
 
 <details>
-<summary><b>More problem-solving milestones</b></summary>
+<summary><b>Project map · architecture, source code &amp; implementation details</b></summary>
 
-- **AtCoder:** Cyan / 4 Kyu, peak rating **1255**.
-- **CodeChef:** 3 Star, peak rating **1723**.
+| Project | Engineering focus | Explore |
+| :--- | :--- | :--- |
+| **Vector Search Engine** | HNSW in C++, Go bindings, four-shard scatter-gather search, WAL and snapshot recovery. | [Architecture](https://github.com/Razeefshaik/VectorSearchEngine/blob/master/ARCHITECTURE.md) |
+| **GoEgg** | Union-find, hashconsing, and parallel e-graph matching, rebuilding, and extraction. | [Quick start](https://github.com/Razeefshaik/GoEgg#quick-start) |
+| **Code Guardian** | Spring Boot ingestion and workers, Kafka jobs, repository-aware RAG, reviewable Git branches. | [Source & workflow](https://github.com/Razeefshaik/FixHub-Code-debugger-AI) |
+| **Search Gateway** | Go gRPC APIs, idempotent Kafka consumers, token-bucket limits, separate search/ingest embedding services. | [System design](https://github.com/Razeefshaik/vectorsearch-gateway/blob/master/docs/ARCHITECTURE.md) |
+| **LIMA** | Hierarchical leave approvals, JWT/RBAC, health reporting, PostgreSQL and Flutter. | [Backend](https://github.com/Razeefshaik/LimaBackend) · [Mobile](https://github.com/Razeefshaik/limaFrontend) |
+| **GoEV** | MQTT telemetry, Redis live state, graph-based routing, greedy/batch assignment, real-time dashboard. | [Design](https://github.com/Razeefshaik/GoEV/blob/master/docs/ev-evcs-architecture-design.md) |
 
 </details>
 
-### What I'm exploring
+<h2 align="center">Tools of the trade</h2>
 
-- **Backend reliability:** failure handling, durable workflows, and concurrency.
+<p align="center">
+  <img src="./assets/v2/tech-java.svg" alt="Java" width="86">
+  <img src="./assets/v2/tech-go.svg" alt="Go" width="86">
+  <img src="./assets/v2/tech-cplusplus.svg" alt="C++" width="86">
+  <img src="./assets/v2/tech-python.svg" alt="Python" width="86">
+  <img src="./assets/v2/tech-spring.svg" alt="Spring" width="86">
+  <img src="./assets/v2/tech-postgresql.svg" alt="PostgreSQL" width="86">
+</p>
+<p align="center">
+  <img src="./assets/v2/tech-redis.svg" alt="Redis" width="86">
+  <img src="./assets/v2/tech-apachekafka.svg" alt="Apache Kafka" width="86">
+  <img src="./assets/v2/tech-docker.svg" alt="Docker" width="86">
+  <img src="./assets/v2/tech-git.svg" alt="Git" width="86">
+  <img src="./assets/v2/tech-flutter.svg" alt="Flutter" width="86">
+  <img src="./assets/v2/tech-kotlin.svg" alt="Kotlin" width="86">
+</p>
+
+<p align="center">
+  <b>APIs &amp; messaging</b> &nbsp; REST · gRPC · Kafka · MQTT<br>
+  <b>Security &amp; data</b> &nbsp; Spring Security · OAuth2 · JWT · RBAC · SQL<br>
+  <b>AI &amp; retrieval</b> &nbsp; RAG · HNSW · Embeddings · Spring AI · LangChain<br>
+  <b>Systems</b> &nbsp; Sharding · WAL · Recovery · Idempotency · Rate limiting
+</p>
+
+<h2 align="center">Experience with impact</h2>
+
+**Research Intern · S.N. Bose National Centre for Basic Sciences**  
+*May – July 2026*
+
+Designed and implemented a GPU algorithm for discrete Voronoi diagrams using **Python and Taichi**. Worked on density-based cut-off heuristics and benchmarked performance against the Jump Flood Algorithm.
+
+**Backend Software Developer Intern · LIMA, Defense Sector Organization**  
+*July – December 2025*
+
+Built a **Java / Spring Boot backend serving 700+ personnel**, with PostgreSQL data models, JWT authentication, and multi-level access control. Received a **Certificate of Appreciation** from senior leadership.
+
+**Moderator · Google Developer Student Clubs, NIT Silchar**  
+*September 2024 – May 2026*
+
+Delivered **technical workshops for 30+ students**, sharing software and systems concepts through community learning.
+
+<h2 align="center">Problem solving, practiced</h2>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Razeef"><img src="./assets/v2/stat-codeforces.svg" alt="Codeforces Expert — peak rating 1633" width="260"></a>
+  <a href="https://leetcode.com/u/RAZEEF_SHAIK/"><img src="./assets/v2/stat-leetcode.svg" alt="LeetCode Knight — peak rating 2032" width="260"></a>
+  <img src="./assets/v2/stat-problems.svg" alt="1500+ algorithmic problems solved across coding platforms" width="260">
+</p>
+
+<p align="center">
+  <sub><b>Also:</b> AtCoder Cyan / 4 Kyu — peak 1255 &nbsp;·&nbsp; CodeChef 3 Star — peak 1723</sub>
+</p>
+
+<h2 align="center">Currently exploring</h2>
+
+- **Backend reliability:** durable workflows, failure handling, and concurrency.
 - **Search infrastructure:** retrieval quality, tenant isolation, and observability.
 - **Algorithms & research:** parallel computation and the trade-offs behind fast systems.
 
----
+<p align="center">
+  <img src="./assets/v2/footer.svg" alt="Build. Break. Understand. Repeat. Always curious about what happens under the hood." width="100%">
+</p>
 
 <p align="center">
-  <b>Let's talk backends, systems, or an interesting problem.</b><br>
-  <a href="mailto:shaikrazeef2@gmail.com">shaikrazeef2@gmail.com</a>
+  <b>Have an interesting backend, systems, or research problem?</b><br>
+  <a href="mailto:shaikrazeef2@gmail.com">Let's connect →</a>
 </p>

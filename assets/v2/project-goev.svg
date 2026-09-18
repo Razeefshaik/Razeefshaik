@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="242" viewBox="0 0 480 242" role="img" aria-labelledby="title"><title id="title">GoEV: EV charging-station routing with MQTT telemetry, Redis state, graph algorithms and a real-time dashboard.</title><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111B30"/><stop offset="1" stop-color="#080D1B"/></linearGradient><linearGradient id="glow"><stop stop-color="#58E3F5"/><stop offset=".52" stop-color="#AC8CFF"/><stop offset="1" stop-color="#EE8BC8"/></linearGradient><radialGradient id="halo"><stop stop-color="#607DE5" stop-opacity=".2"/><stop offset="1" stop-color="#607DE5" stop-opacity="0"/></radialGradient></defs><style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Consolas,monospace}.pulse{animation:pulse 4s ease-in-out infinite}.orbit{transform-box:fill-box;transform-origin:center;animation:orbit 22s linear infinite}.flow{stroke-dasharray:5 16;animation:flow 5s linear infinite}.lift{animation:lift 5s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}@keyframes orbit{to{transform:rotate(360deg)}}@keyframes flow{to{stroke-dashoffset:-84}}@keyframes lift{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}@media(prefers-reduced-motion:reduce){.pulse,.orbit,.flow,.lift{animation:none}}</style>
+<rect x="1" y="1" width="478" height="240" rx="18" fill="url(#bg)" stroke="#23334E"/>
+<ellipse cx="395" cy="69" rx="104" ry="90" fill="url(#halo)"/>
+<path d="M24 1H166" stroke="#EDC27A" stroke-width="2"/>
+<text x="26" y="31" fill="#EDC27A" font-size="10" letter-spacing="1.5" class="mono">ENERGY &amp; CONNECTED SYSTEMS</text>
+<text x="25" y="81" fill="#F2F6FF" font-size="31" font-weight="700" letter-spacing="-.7">GoEV</text>
+<text x="26" y="108" fill="#A7B7D2" font-size="11" letter-spacing="1.7" class="mono">PROJECT 06</text>
+<g transform="translate(333 18) scale(.94)" color="#EDC27A"><g fill="none" stroke="currentColor" stroke-width="2"><path d="M6 90Q30 104 40 78T72 47T120 22" stroke-dasharray="4 10" class="flow"/><rect x="35" y="9" width="59" height="89" rx="13" fill="#122037"/><path d="M94 33H107V74Q107 86 98 86M32 99H98"/><rect x="47" y="22" width="35" height="38" rx="4" opacity=".5"/><path class="pulse" d="M69 29L55 45H64L60 57L77 39H67Z" fill="currentColor" stroke="none"/><circle cx="15" cy="90" r="5"/><circle cx="119" cy="22" r="5"/></g></g>
+<text x="26" y="150" fill="#C7D3E7" font-size="14">EV-to-charging-station routing and assignment.</text>
+<text x="26" y="171" fill="#C7D3E7" font-size="14">Live telemetry, graph routing and a dashboard.</text>
+<path d="M26 194H453" stroke="#23334E"/>
+<text x="26" y="221" fill="#EDC27A" font-size="10.5" letter-spacing=".45" class="mono">JAVA  /  REDIS  /  MQTT  /  SPRING</text>
+<path d="M435 217H453M447 211L453 217L447 223" fill="none" stroke="#EDC27A" stroke-width="1.6"/>
+</svg>
