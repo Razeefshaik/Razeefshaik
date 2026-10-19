@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 132 42" width="132" height="42" role="img" aria-labelledby="title desc" fill="none">
+<title id="title">Portfolio</title>
+<desc id="desc">Portfolio</desc>
+<style>
+@font-face{font-family:RZMono;font-weight:700;font-style:normal;src:url(data:font/woff;base64,d09GRgABAAAAAAVsAA8AAAAABjQAAjYEAAAAAAAAAAAAAAAAAAAAAAAAAABHREVGAAAExAAAABYAAAAWABEACEdQT1MAAATcAAAAIAAAACBEdkx1R1NVQgAABPwAAAApAAAAKrj6uPRPUy8yAAAByAAAAEoAAABgFJ5X/1NUQVQAAAUoAAAARAAAAEzrJ8wpY21hcAAAAigAAABGAAAAZAETAahnYXNwAAAEvAAAAAgAAAAIAAAAEGdseWYAAAKEAAABVAAAAYr0ZFTXaGVhZAAAAVgAAAA2AAAANhkl8U1oaGVhAAABkAAAACAAAAAkBl4BVGhtdHgAAAIUAAAAFAAAABQDigFIbG9jYQAAAnAAAAAUAAAAFAGeAgxtYXhwAAABsAAAABgAAAAgAAwAIW5hbWUAAAPYAAAAygAAAWoh+jcMcG9zdAAABKQAAAAWAAAAIP9oADMAAQAAAAI2BKNCexBfDzz1AAMD6AAAAADb0qaaAAAAANva0PIALv/2AjIC5AAAAAYAAgAAAAAAAHicY2BkYGD+8+8KAwNTBIMegxqTEQNQBAUwAgBo7wO3eJxjYGRgYOBkUGBgYgABRgY0AAAEkQAueJxjYGGKYtrDwMrAwNTFFMHAwOANoRnjGIwYHYCiDAycDDDAyIAEvJyAxAEGBYYQ5j//rjAwMP9h1IGpYVJjugWkFBhYAe/fCwAAAAJYAFoAUABaAGcASABNAEwALgAAeJxjYGBgYmBgYAZiESDJCKZZGAKAtAAQgsQVGNwYPBl8gGJBDCH//yOJ+ENE/r/4v/v/zv/b/2/9v+X/ZrAZKAAA1NMUrwAAAAAAAAAUACkAOABqAI0AtADFAMV4nE3Qv0vDQBQH8HcntvgD8dCk4CJtoIKoYO8uKZq2WLVtoIWudstgAlWzGLqJs+CgZOvsv+BcVHBy6ZrBSdDFSXCypy91KQfvfn353PGAQBuA6jSGGYBzltXGg7XJs7on22pI4/ApVEMg0AEgCnNzmJOcGTKrGYxrnSgid1EUEBUEigYYAh/FFUxOJyJH078gJo1H/RAvoPH7TRfpGzBYBTjM5fOSCdPkBV3X2HIqtVYw8SBv5FK41clGzbcsv1b3LMurcyE4F3JWulVSrrpSunvqAefA4qSMiFCP3EreaGEp4A/mQRv/IcHRNgyGa1Mib7S+nDO7dOr0eqJSET0aF48P9r2i+iBXJS7sRGli2URlATITSnrJmJpwmu/Oie2Ub68vj7rStmWXxqZbbQQZ9UJy6pXc7HCxm3RlC7V11NKJ9d+9zwH5GVAvDEd9+APwa189eJx9jzsOAVEYhb9BvCJYgGJKGkSpQ0UiEZFIdOORGcKMjFHYm4VYgQUoVY47oyJy89//3HPO/7hAjgVprEwBuCpibFHTK8YpytxibEGJe4Kz5HkkuCL+meAqRWkDAo5cCNni4hFh06FtwmYmZqM80h3Rl8uRz+ckbqxKX2EzER+wk2dl6nuclT1xoXHWTd9Ic050aem46vJ2nFnSVFXAQez3lF/cZ27j71ZTaa7676WFzPX6/K8vdc+aobAjtNX8qdnAwX8BmEE4KAAAeJxjYGYAg/+pDEZAipEBDQAAJaMBmwAAAAEAAf//AA8AAQAAAAwAAAAAAAAAAgABAAEABwABAAAAAQAAAAoAHAAeAAFERkxUAAgABAAAAAD//wAAAAAAAHicY2BkYGDgYlBj0GBgcnHzCWHgy0ksyWOQYGABijP8/88ABwBtlwVdAAAAeJxjYGRgZOBgYGJgYBABkyoMTOXpGSWMQGZmSWIOIz9QnoVBAizHwMjGtIeBgSkCiN8BucxAOSZGAQawFAMDAPSMBgQ=) format('woff')}
+.f-mono-b{font-family:RZMono,ui-monospace,SFMono-Regular,Consolas,monospace;font-weight:700;font-style:normal}
+text{white-space:pre}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs></defs>
+<rect x=".5" y=".5" width="131" height="41" rx="20.5" fill="#121015" stroke="#3B3441"/>
+<g transform="translate(17.65 13) scale(1)" stroke="#FF6A1F" stroke-width="1.5" fill="none" stroke-linecap="round"><circle cx="8" cy="8" r="6.8"/><ellipse cx="8" cy="8" rx="3" ry="6.8"/><path d="M1.4 8h13.2"/></g>
+<text x="42.65" y="25.5" class="f-mono-b" font-size="11.5" fill="#F1EBE1" letter-spacing="1.2">PORTFOLIO</text>
+</svg>

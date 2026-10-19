@@ -1,0 +1,4 @@
+# local previews
+_*.png
+_preview.html
+__pycache__/

@@ -1,0 +1,3 @@
+fonttools==4.62.1
+# only tools/make_portrait.py needs Pillow; the daily workflow does not install it
+# pillow==12.2.0

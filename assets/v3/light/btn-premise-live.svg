@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 156 42" width="156" height="42" role="img" aria-labelledby="title desc" fill="none">
+<title id="title">Live app</title>
+<desc id="desc">Live app</desc>
+<style>
+@font-face{font-family:RZMono;font-weight:700;font-style:normal;src:url(data:font/woff;base64,d09GRgABAAAAAAUsAA8AAAAABdwAAjYEAAAAAAAAAAAAAAAAAAAAAAAAAABHREVGAAAEhAAAABYAAAAWABEAB0dQT1MAAAScAAAAIAAAACBEdkx1R1NVQgAABLwAAAApAAAAKrj6uPRPUy8yAAAByAAAAEoAAABgFJ5YAVNUQVQAAAToAAAARAAAAEzrJ8wpY21hcAAAAigAAABDAAAAZAEHAaFnYXNwAAAEfAAAAAgAAAAIAAAAEGdseWYAAAKAAAABFQAAATKCZGqoaGVhZAAAAVgAAAA2AAAANhkc8U1oaGVhAAABkAAAACAAAAAkBlYBUWhtdHgAAAIUAAAAEgAAABIDIgE8bG9jYQAAAmwAAAASAAAAEgGEASttYXhwAAABsAAAABgAAAAgAAsAF25hbWUAAAOYAAAAygAAAWoh+jcMcG9zdAAABGQAAAAWAAAAIP9oADMAAQAAAAI2BIiCVDJfDzz1AAMD6AAAAADb0qaaAAAAANva0PIAIwAAAjUC2gAAAAYAAgAAAAAAAHicY2BkYGD+8+8KAwNTBIMygzKTKQNQBAUwAgBn7AOseJxjYGRgYOBgEGNgYgABRgY0AAADfAAjeJxjYGGKYtrDwMrAwNTFFMHAwOANoRnjGIwYHYCiDAycDDDAyIAEvJyAxAEGBYYw5j//rjAwMP9h1IGpYVJjugWkFBhYAfAZCwIAAAJYAFoAIwBYAFoAZwBNACMAAAAAeJxjYGBgYmBgYAZiESDJCKZZGAKAtAAQgsQVGBwZXBk8GXyAomH//2OK/H/+/8D/vf93/d/xf+v/DWAzUAAAz9QUnAAAAAAAACEANwBMAFsAfgCZAJkAAHicY2BiUGZgYDJlusXAziDAwFAsbCysrK7MLmysrqamzsbGrrxj4c4GjUMa9lN0uAWYmfl5mG79Vdu4kVH8iKG/kJC/AQMDI0ME0AQ+oAncQP2CiqIwGMG47d9RRol/LxitmW7l7su5lgtUGwXU8A+q1tRYUNlUUVRZ0Fg0avJkxiWTJ+cx/svL+8eUBzI1HWiqFFAlK8hUY6C56bWMZkDbZ5UAJRh8gYQRUJaHQRQsbyQmJirCxqasLAhkm5maqCkr+372zLWxzfEsKzOxtzcpY7plkerinGYBdE+nrbGJDcgOmN95gGYwGwuLiYmbmZkLGzPf3tGUxynAwsLHkVu3g+nWPxXlAEnJABXG23/VAPFSR8UAAAB4nH2POw4BURiFv0G8IliAYkoaRKlDRSIRkUh045EZwoyMUdibhViBBShVjjujInLz3//cc87/uECOBWmsTAG4KmJsUdMrxinK3GJsQYl7grPkeSS4Iv6Z4CpFaQMCjlwI2eLiEWHToW3CZiZmozzSHdGXy5HP5yRurEpfYTMRH7CTZ2Xqe5yVPXGhcdZN30hzTnRp6bjq8nacWdJUVcBB7PeUX9xnbuPvVlNprvrvpYXM9fr8ry91z5qhsCO01fyp2cDBfwGYQTgoAAB4nGNgZgCD/6kMRkCKkQENAAAlowGbAAAAAQAB//8ADwABAAAADAAAAAAAAAACAAEAAQAGAAEAAAABAAAACgAcAB4AAURGTFQACAAEAAAAAP//AAAAAAAAeJxjYGRgYOBiUGPQYGBycfMJYeDLSSzJY5BgYAGKM/z/zwAHAG2XBV0AAAB4nGNgZGBk4GBgYmBgEAGTKgxM5ekZJYxAZmZJYg4jP1CehUECLMfAyMa0h4GBKQKI3wG5zEA5JkYBBrAUAwMA9IwGBA==) format('woff')}
+.f-mono-b{font-family:RZMono,ui-monospace,SFMono-Regular,Consolas,monospace;font-weight:700;font-style:normal}
+text{white-space:pre}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs></defs>
+<rect x=".5" y=".5" width="155" height="41" rx="20.5" fill="#FFFCF7" stroke="#D3C7B5"/>
+<g transform="translate(33.7 13) scale(1)" stroke="#E2550A" stroke-width="1.5" fill="none" stroke-linecap="round"><circle cx="8" cy="8" r="6.8"/><ellipse cx="8" cy="8" rx="3" ry="6.8"/><path d="M1.4 8h13.2"/></g>
+<text x="58.7" y="25.5" class="f-mono-b" font-size="11.5" fill="#17130F" letter-spacing="1.2">LIVE APP</text>
+</svg>
